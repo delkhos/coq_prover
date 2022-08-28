@@ -1,0 +1,8 @@
+-R . src
+
+src/ast.v
+src/environment.v
+src/semantics.v
+src/step_semantics.v
+src/prover.v
+src/main.v
